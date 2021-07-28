@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HALAYUDHA-dev
-- 👀 I’m interested in ... Web Developing
-- 🌱 I’m currently learning ... Front End
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Full Stack Developing
+- 🌱 I’m currently learning ... Full Stack Java
+- 💞️ I’m looking to collaborate on Projects ... 
 - 📫 How to reach me ...
 
 <!---
